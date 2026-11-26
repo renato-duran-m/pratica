@@ -1,0 +1,10 @@
+﻿;Estación Central;Región Metropolitana;% de la RM que está en Estación Central;% dentro de Estación Central;;
+n_serv_hig_alc_dentro;61612.0;2274299.0;2.71;95.78;;
+n_serv_hig_alc_fuera;2634.0;47323.0;5.57;4.09;;
+n_serv_hig_fosa;41.0;41587.0;0.1;0.06;;
+n_serv_hig_pozo;18.0;5684.0;0.32;0.03;;
+n_serv_hig_acequia_canal;4.0;318.0;1.26;0.01;;
+n_serv_hig_cajon_otro;0.0;149.0;0.0;0.0;;
+n_serv_hig_bano_quimico;2.0;170.0;1.18;0.0;;
+n_serv_hig_bano_seco;0.0;113.0;0.0;0.0;;
+n_serv_hig_no_tiene;18.0;1274.0;1.41;0.03;;

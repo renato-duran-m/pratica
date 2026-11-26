@@ -1,0 +1,8 @@
+﻿;Estación Central;Región Metropolitana;% de la RM que está en Estación Central;% dentro de Estación Central;;
+n_transporte_auto;13541.0;895141.0;1.51;15.87;;
+n_transporte_publico;58574.0;1530192.0;3.83;68.65;;
+n_transporte_camina;6668.0;238164.0;2.8;7.81;;
+n_transporte_bicicleta;1946.0;102763.0;1.89;2.28;;
+n_transporte_motocicleta;1865.0;52144.0;3.58;2.19;;
+n_transporte_cab_lan_bote;8.0;340.0;2.35;0.01;;
+n_transporte_otros;2723.0;113944.0;2.39;3.19;;
